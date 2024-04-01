@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.team-logo {
+  width: 100px;
+  height: 100px;
+}
+.won {
+  color: #18ed66;
+}
+.lost {
+  color: #e31a1a;
+}
+.card {
+  border: 1px solid blue;
+  width: 150px;
+  border-radius: 12px;
+  margin: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 8px;
+}
+.status {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
